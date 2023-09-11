@@ -1,0 +1,21 @@
+/* style.css */
+.Odd {
+    background-color: rgb(255, 204, 204);
+    font-family: "Veranda", "DejaVu Sans", "sans-serif";
+}
+
+#one {
+    color: rgb(204, 242, 255);
+    font-size: 24px;
+}
+
+.Odd#Cooler {
+    font-size: 36px;
+}
+
+#two {
+    background-color: rgb(230, 255, 204);
+    font-size: 24px;
+    font-weight: bold;	  
+}
+
